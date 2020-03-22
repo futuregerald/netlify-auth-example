@@ -6,4 +6,4 @@ Make sure to add the `JWT_SECRET` to your environment variables inside your Netl
 
 ## Test Site:
 
-https://loblaws-auth-test.netlify.com/
+https://jwt-auth-test.netlify.com/
