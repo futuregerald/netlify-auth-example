@@ -3,3 +3,7 @@ This is a simple repository which uses a Netliy function to add a cookie to your
 
 ## Setup
 Make sure to add the `JWT_SECRET` to your environment variables inside your Netlify site.
+
+## Test Site:
+
+https://loblaws-auth-test.netlify.com/
